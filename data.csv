@@ -1,4 +1,195 @@
 Title,Address,Latitude,Longitude,Found Address,Match Quality,Source
 Trinity College,"300 Summit St, Hartford CT 06106",41.745167,-72.69263,"300 SUMMIT ST, HARTFORD, CT, 06106",Exact,US Census
-Capital Community College,950 Main St Hartford CT 06103,41.768074,-72.673065,"950 MAIN ST, HARTFORD, CT, 06103",Exact,US Census
+Capital Community College,950 Main St Hartford CT 06103,41.76804,-72.673065,"950 MAIN ST, HARTFORD, CT, 06103",Exact,US Census
 University of Hartford,"200 Bloomfield Ave, West Hartford CT 06117",41.794655,-72.71764,"200 BLOOMFIELD AVE, WEST HARTFORD, CT, 06117",Exact,US Census
+Charter Oak State College,"55 Manafort Drive, New Britain CT 06053",41.6882077,-72.7679453,"55 Paul Manafort Senior Dr, New Britain, CT 06053, USA",Match,Google
+Hartford Seminary,"77 Sherman St, Hartford CT 06105",41.769394,-72.70706,"77 SHERMAN ST, HARTFORD, CT, 06105",Exact,US Census
+St. Thomas Seminary,"467 Bloomfield Ave, Bloomfield CT 06002",41.80829,-72.73107,"467 BLOOMFIELD AVE, BLOOMFIELD, CT, 06002",Exact,US Census
+University of Connecticut-Hartford,"14 Prospect St, Hartford CT 06103",41.764084,-72.67228,"14 PROSPECT ST, HARTFORD, CT, 06103",Exact,US Census
+Central Connecticut State University,"1615 Stanley St, New Britain CT 06050",41.689274,-72.77059,"1615 STANLEY ST, NEW BRITAIN, CT, 06053",Match,US Census
+Goodwin College,"1 Riverside Drive, East Hartford CT 06118",41.75012,-72.64288,"1 RIVERSIDE DR, EAST HARTFORD, CT, 06118",Match,US Census
+Manchester Community College,"Great Path, Manchester CT 06040",41.7622906,-72.5670043,"Great Path, Manchester, CT 06040, USA",Match,Google
+University of St. Joseph,"1678 Asylum Ave, West Hartford CT 06117",41.77874,-72.72987,"1678 ASYLUM AVE, WEST HARTFORD, CT, 06117",Exact,US Census
+Address in Turin,"Via Michele Lessona, 32-40, Torino, 10145",45.0833518,7.6462327,"Via Michele Lessona, 32, 10145 Torino TO, Italy",Match,Google
+Address in London,"107-129 Regency St, London",51.4910572,-0.1321919,"107 Regency St, Westminster, London SW1V, UK",Match,Google
+Demo_PSCL,brozolo,45.1126174,8.0747166,"10020 Brozolo, Metropolitan City of Turin, Italy",Match,Google
+Demo_PSCL,GRUGLIASCO,45.0563863,7.5943754,"10095 Grugliasco, Metropolitan City of Turin, Italy",Match,Google
+Demo_PSCL,GRUGLIASCO,45.0563863,7.5943754,"10095 Grugliasco, Metropolitan City of Turin, Italy",Match,Google
+Demo_PSCL,Santena,44.9500682,7.773334,"10026 Santena, Metropolitan City of Turin, Italy",Match,Google
+Demo_PSCL,torino,45.0703393,7.686864,"Turin, Metropolitan City of Turin, Italy",Match,Google
+Demo_PSCL,torino,45.0703393,7.686864,"Turin, Metropolitan City of Turin, Italy",Match,Google
+Demo_PSCL,torino,45.0703393,7.686864,"Turin, Metropolitan City of Turin, Italy",Match,Google
+Demo_PSCL,torino,45.0703393,7.686864,"Turin, Metropolitan City of Turin, Italy",Match,Google
+Demo_PSCL,torino,45.0703393,7.686864,"Turin, Metropolitan City of Turin, Italy",Match,Google
+Demo_PSCL,"Asti, Valfenera (AT)",44.9030261,7.9674172,"14017 Valfenera, Province of Asti, Italy",Match,Google
+Demo_PSCL,Caselle Torinese,45.1842302,7.6509234,"10072 Caselle Torinese, Metropolitan City of Turin, Italy",Match,Google
+Demo_PSCL,Caselle Torinese,45.1842302,7.6509234,"10072 Caselle Torinese, Metropolitan City of Turin, Italy",Match,Google
+Demo_PSCL,Caselle Torinese,45.1842302,7.6509234,"10072 Caselle Torinese, Metropolitan City of Turin, Italy",Match,Google
+Demo_PSCL,chieri,45.008885,7.8275551,"10023 Chieri, Metropolitan City of Turin, Italy",Match,Google
+Demo_PSCL,collegno,45.0897785,7.5865634,"10093 Collegno, Metropolitan City of Turin, Italy",Match,Google
+Demo_PSCL,collegno,45.0897785,7.5865634,"10093 Collegno, Metropolitan City of Turin, Italy",Match,Google
+Demo_PSCL,"corso francia 129, rivoli",45.0726748,7.5788136,"Corso Francia, 129, 10093 Collegno TO, Italy",Match,Google
+Demo_PSCL,"Corso Kennedy 16, Collegno ( To )",45.0821785,7.5670374,"Corso Kennedy, 16, 10093 Collegno TO, Italy",Match,Google
+Demo_PSCL,"corso lombardia , torino",45.1005812,7.6533168,"Corso Lombardia, Torino TO, Italy",Match,Google
+Demo_PSCL,"corso moncalieri, torino",45.0417957,7.6838203,"Corso Moncalieri, Torino TO, Italy",Match,Google
+Demo_PSCL,"CORSO MORTARA, 42, TORINO",45.0908295,7.6715027,"Corso Mortara, 42, 10149 Torino TO, Italy",Match,Google
+Demo_PSCL,"Corso Unione Sovietica, santa rita - Torino",45.0389194,7.653077,"Corso Unione Sovietica, Torino TO, Italy",Match,Google
+Demo_PSCL,"Corso Unione Sovietica, TORINO (SANTA RITA)",45.0389194,7.653077,"Corso Unione Sovietica, Torino TO, Italy",Match,Google
+Demo_PSCL,"corso Vercelli, torino",45.1022845,7.6948718,"Corso Vercelli, Torino TO, Italy",Match,Google
+Demo_PSCL,costanzana VC,45.2386363,8.3683025,"13033 Costanzana, Province of Vercelli, Italy",Match,Google
+Demo_PSCL,Leinì,45.1797783,7.716918,"10040 Leinì, Metropolitan City of Turin, Italy",Match,Google
+Demo_PSCL,nole canavese,45.2433829,7.5742088,"10076 Nole, Metropolitan City of Turin, Italy",Match,Google
+Demo_PSCL,"Piazza Benefica, Torino",45.0737276,7.6618977,"Piazza Benefica, 10138 Torino TO, Italy",Match,Google
+Demo_PSCL,"piazza campidoglio, settimo torinese",45.1359342,7.7660192,"Piazza Campidoglio, 10036 Settimo Torinese TO, Italy",Match,Google
+Demo_PSCL,"piazza galimberti 11, torino",45.0339311,7.6545268,"Piazza Tancredi Galimberti, 11, 10134 Torino TO, Italy",Match,Google
+Demo_PSCL,"piazza madonna delle grazie volpiano, volpiano",45.2006812,7.7823726,"Piazza Madonna delle Grazie, 10088 Volpiano TO, Italy",Match,Google
+Demo_PSCL,"Piazza Vittime dell'Ipca, Ciriè",45.2329021,7.5980616,"Via Giuseppe Mazzini, 4/8, 10073 Ciriè TO, Italy",Match,Google
+Demo_PSCL,"pino torinese via ticino 4, pino torinese",45.04882,7.75913,"Via Ticino, 4, 10025 Pino Torinese TO, Italy",Match,Google
+Demo_PSCL,"pratonuovo, leini",45.2016211,7.6963871,"10040 Pratonuovo, Metropolitan City of Turin, Italy",Partial Match,Google
+Demo_PSCL,robassomero,45.1981211,7.5661554,"10070 Robassomero, Metropolitan City of Turin, Italy",Match,Google
+Demo_PSCL,"robassonero, torino",45.1981211,7.5661554,"10070 Robassomero, Metropolitan City of Turin, Italy",Match,Google
+Demo_PSCL,"san benigno, san giusto",45.300602,7.8116738,"10090 San Giusto Canavese, Metropolitan City of Turin, Italy",Match,Google
+Demo_PSCL,settimo torinese,45.1383266,7.7728777,"10036 Settimo Torinese, Metropolitan City of Turin, Italy",Match,Google
+Demo_PSCL,settimo torinese,45.1383266,7.7728777,"10036 Settimo Torinese, Metropolitan City of Turin, Italy",Match,Google
+Demo_PSCL,settimo torinese,45.1383266,7.7728777,"10036 Settimo Torinese, Metropolitan City of Turin, Italy",Match,Google
+Demo_PSCL,settimo torinese,45.1383266,7.7728777,"10036 Settimo Torinese, Metropolitan City of Turin, Italy",Match,Google
+Demo_PSCL,"STRADA ASILERA , DRUENTO ( TO)",45.1393214,7.5614987,"Via Asilera, 10040 Druento TO, Italy",Match,Google
+Demo_PSCL,"strada castello di mirafiori, torino",45.0100488,7.6417749,"Str. Castello di Mirafiori, Torino TO, Italy",Match,Google
+Demo_PSCL,"strada comunale dei Trognani 24/1, Druento",45.1308172,7.5613442,"Strada Comunale dei Trognani, 24, 10040 Druento TO, Italy",Match,Google
+Demo_PSCL,"strada dei colleri, bosconero",45.2628042,7.758536,"Str. dei Colleri, 10080 Bosconero TO, Italy",Match,Google
+Demo_PSCL,"Strada del Lionetto , Torino",45.0768297,7.6296922,"Str. del Lionetto, Torino TO, Italy",Match,Google
+Demo_PSCL,"STRADA PINO 22/BIS BALDISSERO TORINESE, BALDISSERO TORINESE",45.0749558,7.8059339,"Baldissero Torinese, Metropolitan City of Turin, Italy",Partial Match,Google
+Demo_PSCL,"strada podio gallino , andezeno",45.0379766,7.8788508,"Str. Podio Gallino, 10020 Andezeno TO, Italy",Match,Google
+Demo_PSCL,"strada roccacatene, moncalieri",44.9889811,7.7335397,"Str. Roccacatene, Moncalieri TO, Italy",Match,Google
+Demo_PSCL,"Torino Piazza CIMAROSA 43, Torino Piazza CIMAROSA 43",45.0886662,7.7070154,"Piazza Domenico Cimarosa, 10154 Torino TO, Italy",Match,Google
+Demo_PSCL,Torino,45.0703393,7.686864,"Turin, Metropolitan City of Turin, Italy",Match,Google
+Demo_PSCL,Torino,45.0703393,7.686864,"Turin, Metropolitan City of Turin, Italy",Match,Google
+Demo_PSCL,Torino,45.0703393,7.686864,"Turin, Metropolitan City of Turin, Italy",Match,Google
+Demo_PSCL,Torino,45.0703393,7.686864,"Turin, Metropolitan City of Turin, Italy",Match,Google
+Demo_PSCL,Torino,45.0703393,7.686864,"Turin, Metropolitan City of Turin, Italy",Match,Google
+Demo_PSCL,Torino,45.0703393,7.686864,"Turin, Metropolitan City of Turin, Italy",Match,Google
+Demo_PSCL,Torino,45.0703393,7.686864,"Turin, Metropolitan City of Turin, Italy",Match,Google
+Demo_PSCL,Torino,45.0703393,7.686864,"Turin, Metropolitan City of Turin, Italy",Match,Google
+Demo_PSCL,Torino,45.0703393,7.686864,"Turin, Metropolitan City of Turin, Italy",Match,Google
+Demo_PSCL,Torino,45.0703393,7.686864,"Turin, Metropolitan City of Turin, Italy",Match,Google
+Demo_PSCL,Torino,45.0703393,7.686864,"Turin, Metropolitan City of Turin, Italy",Match,Google
+Demo_PSCL,Torino,45.0703393,7.686864,"Turin, Metropolitan City of Turin, Italy",Match,Google
+Demo_PSCL,Torino,45.0703393,7.686864,"Turin, Metropolitan City of Turin, Italy",Match,Google
+Demo_PSCL,Torino,45.0703393,7.686864,"Turin, Metropolitan City of Turin, Italy",Match,Google
+Demo_PSCL,"TORRAZZA PIEMONTE, TORRAZZA PIEMONTE",45.2185285,7.9749386,"10037 Torrazza Piemonte, Metropolitan City of Turin, Italy",Match,Google
+Demo_PSCL,"Trecate via Germano Ruggerone (Eros) n.4/a cap 28069 provincia Novara, Trecate provincia Novara",45.4403235,8.7358879,"Via Germano Ruggerone, 28069 Trecate NO, Italy",Partial Match,Google
+Demo_PSCL,"v pietro cossa, torino",45.0864362,7.6259889,"Via Pietro Cossa, Torino TO, Italy",Match,Google
+Demo_PSCL,"v.le matteotti 40  stura lazio , nichelino torino",45.1096806,7.7117957,"Lungo Stura Lazio, 40, 10156 Torino TO, Italy",Partial Match,Google
+Demo_PSCL,"Val della Torre, Val della Torre (TO)",45.160316,7.4436301,"10040 Val della Torre, Metropolitan City of Turin, Italy",Match,Google
+Demo_PSCL,"vercelli, torino",45.0570511,7.6635361,"Via Gian Domenico Cassini, 19, 10129 Torino TO, Italy",Match,Google
+Demo_PSCL,"vi Domenico Cimarosa, Torino",45.0902629,7.7057898,"Via Domenico Cimarosa, 10154 Torino TO, Italy",Match,Google
+Demo_PSCL,"via  carlo alberto, leini",45.1827982,7.7157636,"Via Carlo Alberto, 10040 Leini TO, Italy",Match,Google
+Demo_PSCL,"via  garlanda, torino",45.099425,7.6968397,"Via Federico Garlanda, 10155 Torino TO, Italy",Match,Google
+Demo_PSCL,"via 25 aprile 82 alpignano, alpignano",45.0884246,7.5302441,"Via XXV Aprile, 82, 10091 Alpignano TO, Italy",Match,Google
+Demo_PSCL,"via alpignano 62 s.e , collegno",45.0834714,7.5646859,"Via Alpignano, 62, 10093 Collegno TO, Italy",Match,Google
+Demo_PSCL,"via belmonte 2, settimo torinese",45.147632,7.767889,"Via Belmonte, 2, 10036 Settimo Torinese TO, Italy",Match,Google
+Demo_PSCL,"Via Berrino, Torino",45.1181343,7.6541251,"Via Michele Berrino, Torino TO, Italy",Match,Google
+Demo_PSCL,"via bertole' viale 19, crescentino",45.1930898,8.105033,"Via Bertole Viale, 19, 13044 Crescentino VC, Italy",Match,Google
+Demo_PSCL,"Via Boccherini, Torino",45.1011641,7.6941373,"Via Luigi Boccherini, 10155 Torino TO, Italy",Match,Google
+Demo_PSCL,"via bormida, torino",45.122936,7.7114072,"Via Bormida, 10156 Torino TO, Italy",Match,Google
+Demo_PSCL,"Via Brozola, Chivasso",45.1869138,7.8858567,"Via Brozola, 10034 Chivasso TO, Italy",Match,Google
+Demo_PSCL,"via buriasco 20/20, torino mirafiori",45.0203601,7.6205115,"Via Buriasco, 20, 10135 Torino TO, Italy",Match,Google
+Demo_PSCL,"via c.casalegno, 6, nichelino",44.99616,7.63743,"Via Carlo Casalegno, 6, 10042 Nichelino TO, Italy",Match,Google
+Demo_PSCL,"Via Carducci, Torino",45.0419737,7.6707034,"Piazza Carducci, 10126 Torino TO, Italy",Match,Google
+Demo_PSCL,"Via Casimiro Sperino , Torino.",45.0348542,7.6715564,"Via Casimiro Sperino, 10126 Torino TO, Italy",Match,Google
+Demo_PSCL,"via cavour 77, trino",45.1938265,8.2994676,"Corso Camillo Benso Conte di Cavour, 77, 13039 Trino VC, Italy",Match,Google
+Demo_PSCL,"Via Cavour, Torino",45.0637902,7.6871397,"Via Cavour, 10123 Torino TO, Italy",Match,Google
+Demo_PSCL,"via cemerosa, torino",45.0902629,7.7057898,"Via Domenico Cimarosa, 10154 Torino TO, Italy",Partial Match,Google
+Demo_PSCL,"via centallo, torino",45.1040663,7.722575,"Via Centallo, 10156 Torino TO, Italy",Match,Google
+Demo_PSCL,"via cigliano, torino",45.0716551,7.7126129,"Via Cigliano, 10153 Torino TO, Italy",Match,Google
+Demo_PSCL,"via cigna 42, torino",45.083293,7.6795164,"Via Francesco Cigna, 42, 10152 Torino TO, Italy",Match,Google
+Demo_PSCL,"via como, torino",45.0840741,7.694441,"Via Como, 10152 Torino TO, Italy",Match,Google
+Demo_PSCL,"via como, torino",45.0840741,7.694441,"Via Como, 10152 Torino TO, Italy",Match,Google
+Demo_PSCL,"via de francisco 20 int.24/b, settimo torinese",45.1360674,7.754242,"Via Antonio de Francisco, 20/int.24/b, 10036 Settimo Torinese TO, Italy",Match,Google
+Demo_PSCL,"Via del padre, Leinì",45.1913195,7.7130313,"Via del Padre, 10040 Leinì TO, Italy",Match,Google
+Demo_PSCL,"via Demora 11, volpiano",45.2032262,7.7761994,"Via Demora, 11, 10088 Volpiano TO, Italy",Match,Google
+Demo_PSCL,"via domenico bertino, borgaro",45.1565941,7.6603218,"Via Domenico Bertino, 10071 Borgaro Torinese TO, Italy",Match,Google
+Demo_PSCL,"Via don valetti 5 Carignano, 10041 Carignano - 10156 Torino",44.9015723,7.670056,"Via Don P. Valetti, 10041 Carignano TO, Italy",Match,Google
+Demo_PSCL,"via Doomodossola, torino",45.080014,7.6427519,"Via Domodossola, 10145 Torino TO, Italy",Partial Match,Google
+Demo_PSCL,"via emilio bongiovanni 24, torino",45.0999258,7.6821705,"Via Emilio Bongiovanni, 24, 10147 Torino TO, Italy",Match,Google
+Demo_PSCL,"Via Fuscaglia 3, Cigliano ",45.305143,8.0228132,"Via Fuscaglia, 3, 13043 Cigliano VC, Italy",Match,Google
+Demo_PSCL,"Via G. Falcone, 8, Scalenghe",44.9026574,7.4386148,"Via Giovanni Falcone, 8, 10060 Viotto TO, Italy",Match,Google
+Demo_PSCL,"via garibaldi , druento (to)",45.1318922,7.57548,"Via Garibaldi, 10040 Druento TO, Italy",Match,Google
+Demo_PSCL,"via generale dalla chiesa 5 mappano , mappano torino",45.1514915,7.7007608,"Via Generale dalla Chiesa, 5, 10072 Mappano TO, Italy",Match,Google
+Demo_PSCL,"Via Genova 43, Via Genova 43  - 10126 Torino",45.0361353,7.6713858,"Via Genova, 43, 10126 Torino TO, Italy",Match,Google
+Demo_PSCL,"VIA GENOVA, 165, TORINO",45.0244509,7.6665743,"Via Genova, 165, 10127 Torino TO, Italy",Match,Google
+Demo_PSCL,"via ghemme, torino",45.0811999,7.6420008,"Via Ghemme, 10145 Torino TO, Italy",Match,Google
+Demo_PSCL,"via giachino, torino",45.0933415,7.6741524,"Via Errico Giachino, 10149 Torino TO, Italy",Match,Google
+Demo_PSCL,"via Giacosa Settimo Torinese, Settimo Torinese",45.1303449,7.7558385,"Via G. Giacosa, 10036 Settimo Torinese TO, Italy",Match,Google
+Demo_PSCL,"via Gioberti, settimo torinese",45.140417,7.7821726,"Via Vincenzo Gioberti, 10036 Settimo Torinese TO, Italy",Match,Google
+Demo_PSCL,"via Giolitti, Nichelino sud",44.986504,7.6419804,"Via Giolitti, 10042 Nichelino TO, Italy",Match,Google
+Demo_PSCL,"Via Gorizia 141, Torino",45.0415743,7.6400934,"Via Gorizia, 141, 10137 Torino TO, Italy",Match,Google
+Demo_PSCL,"via Gorizia 59, Torino",45.0494528,7.6413428,"Via Gorizia, 59, 10136 Torino TO, Italy",Match,Google
+Demo_PSCL,"via gradisca  76, Torino",45.0480394,7.6434985,"Via Gradisca, 76, 10136 Torino TO, Italy",Match,Google
+Demo_PSCL,"via gramsci, brandizzo",45.1800197,7.8390346,"Via Antonio Gramsci, 10032 Brandizzo TO, Italy",Match,Google
+Demo_PSCL,"via iserra , cerreto d'asti",45.0530191,8.0352511,"Via Inserra, 14020 Cerreto D'asti AT, Italy",Partial Match,Google
+Demo_PSCL,"Via Lanzo, Torino",45.1167757,7.6564854,"Via Lanzo, Torino TO, Italy",Match,Google
+Demo_PSCL,"VIA LEINI 27, SETTIMO TORINESE (TO)",45.1391394,7.7635227,"Via Leinì, 27, 10036 Settimo Torinese TO, Italy",Match,Google
+Demo_PSCL,"Via Leinì 27, Settimo Torinese (TO)",45.1391394,7.7635227,"Via Leinì, 27, 10036 Settimo Torinese TO, Italy",Match,Google
+Demo_PSCL,"Via Leinì, Settimo torinese",45.1437097,7.7497533,"Via Leinì, 10036 Settimo Torinese TO, Italy",Match,Google
+Demo_PSCL,"Via Leini' 27, Settimo Torinese (TO)",45.1391394,7.7635227,"Via Leinì, 27, 10036 Settimo Torinese TO, Italy",Match,Google
+Demo_PSCL,"Via litania 10, San benigno canavese",45.232281,7.7760903,"10080 San Benigno Canavese, Metropolitan City of Turin, Italy",Partial Match,Google
+Demo_PSCL,"via livorno, torino",45.086227,7.6691845,"Via Livorno, Torino TO, Italy",Match,Google
+Demo_PSCL,"via lodi 1, Torino",45.0846713,7.6891877,"Via Lodi, 1, 10152 Torino TO, Italy",Match,Google
+Demo_PSCL,"via luini, torino",45.0986218,7.6593937,"Via Bernardino Luini, Torino TO, Italy",Match,Google
+Demo_PSCL,"via maestra, chivasso",45.2029595,7.9243441,"Via Maestra, 10034 Chivasso TO, Italy",Match,Google
+Demo_PSCL,"via maestra, vestignè",45.0739133,7.6767898,"Via Giuseppe Garibaldi, 39, 10122 Torino TO, Italy",Match,Google
+Demo_PSCL,"via malta, torino borgo san paolo",45.058316,7.6472057,"Via Malta, 10141 Torino TO, Italy",Match,Google
+Demo_PSCL,"via marconi, caselle",45.1006191,9.7959237,"Via Guglielmo Marconi, 26842 Caselle Landi LO, Italy",Match,Google
+Demo_PSCL,"via marrconi, santena",44.9445783,7.7722249,"Via Guglielmo Marconi, 10026 Santena TO, Italy",Match,Google
+Demo_PSCL,"via meucci, caselle torinese",45.1787468,7.6421503,"Via Meucci, 10072 Caselle Torinese TO, Italy",Match,Google
+Demo_PSCL,"via milano 32, settimo torinese",45.1428133,7.7781152,"Via Milano, 32, 10036 Settimo Torinese TO, Italy",Match,Google
+Demo_PSCL,"via modena, Torino",45.0771661,7.695367,"Via Modena, Torino TO, Italy",Match,Google
+Demo_PSCL,"via mombarcaro, torino",45.049217,7.6411068,"Via Mombarcaro, 10136 Torino TO, Italy",Match,Google
+Demo_PSCL,"Via Monfalcone, Torino",45.0511569,7.6393307,"Via Monfalcone, 10136 Torino TO, Italy",Match,Google
+Demo_PSCL,"VIA MONGRANDO, TORINO",45.0722259,7.7090617,"Via Mongrando, 10153 Torino TO, Italy",Match,Google
+Demo_PSCL,"via montegrappa, chivasso",45.1990127,7.8752593,"Via Montegrappa, 10034 Chivasso TO, Italy",Match,Google
+Demo_PSCL,"via montelera 17, val della torre",45.1516499,7.44707,"Via Montelera, 17, 10040 Montelera TO, Italy",Match,Google
+Demo_PSCL,"via ozanam, gassino",45.1270671,7.8191949,"Via Ozanam, 10090 Gassino torinese TO, Italy",Match,Google
+Demo_PSCL,"via padova, beinasco torino",45.0279822,7.6039745,"Via Padova, Beinasco TO, Italy",Match,Google
+Demo_PSCL,"via paolo Gaidano 94, Torino",45.0413608,7.6231827,"Via Paolo Gaidano, 94, 10137 Torino TO, Italy",Match,Google
+Demo_PSCL,"Via Paolo Gaidano 94, Torino",45.0413608,7.6231827,"Via Paolo Gaidano, 94, 10137 Torino TO, Italy",Match,Google
+Demo_PSCL,"Via Pergolesi 12, Torino",45.0986143,7.6996958,"Via Giambattista Pergolesi, 12, 10154 Torino TO, Italy",Match,Google
+Demo_PSCL,"Via Pergolesi, 91/A, Torino",45.0958868,7.7070344,"Via Giambattista Pergolesi, 91, 10154 Torino TO, Italy",Match,Google
+Demo_PSCL,"via pervinche 9/g, Torino",45.105276,7.635623,"Via delle Pervinche, 9, 10151 Torino TO, Italy",Match,Google
+Demo_PSCL,"via Pier Fortunato Calvi 24, torino",45.0957926,7.6974421,"Via Pier Fortunato Calvi, 24, 10154 Torino TO, Italy",Match,Google
+Demo_PSCL,"via podgora, grugliasco",45.0696188,7.6024986,"Via Podgora, Grugliasco TO, Italy",Match,Google
+Demo_PSCL,"via poirino, torino",45.0336495,7.6491626,"Via Poirino, 10134 Torino TO, Italy",Match,Google
+Demo_PSCL,"via porpora 39, torino",45.1001493,7.6979258,"Via Nicola Porpora 39, 10155 Torino TO, Italy",Partial Match,Google
+Demo_PSCL,"Via R.Wuillermin 1, Torino",45.0929999,7.7153126,"Via Renato Wuillermin, 1, 10154 Torino TO, Italy",Match,Google
+Demo_PSCL,"via richelmy, torino",45.0323824,7.6719788,"Via Prospero Richelmy, 10126 Torino TO, Italy",Match,Google
+Demo_PSCL,"via Rio San Gallo,24/a , 10036",45.142126,7.784387,"Via Rio S. Gallo, 24A, 10036 Settimo Torinese TO, Italy",Match,Google
+Demo_PSCL,"via rondissone, torino",45.0971466,7.6910311,"Via Rondissone, 10155 Torino TO, Italy",Match,Google
+Demo_PSCL,"via Salvemini 44, Venaria Reale",45.1234878,7.6271768,"Via Gaetano Salvemini, 44, 10078 Venaria Reale TO, Italy",Match,Google
+Demo_PSCL,"Via San Marchese, Venaria",45.1263234,7.6466911,"Via S. Marchese, 10078 Venaria Reale TO, Italy",Match,Google
+Demo_PSCL,"Via Sandro Pertini 36, Torrazza Piemonte",45.2130728,7.9673959,"Via Sandro Pertini, 36, 10037 Torrazza Piemonte TO, Italy",Match,Google
+Demo_PSCL,"Via Sandro Pertini 36, Torrazza Piemonte",45.2130728,7.9673959,"Via Sandro Pertini, 36, 10037 Torrazza Piemonte TO, Italy",Match,Google
+Demo_PSCL,"Via Santa  Giulia,   8, Torino ",45.0725017,7.6934648,"Via Santa Giulia, 8, 10124 Torino TO, Italy",Match,Google
+Demo_PSCL,"via sempione 134, torino",45.0975789,7.696254,"Via Sempione, 134, 10155 Torino TO, Italy",Match,Google
+Demo_PSCL,"via serrano , torino",45.0658382,7.6386486,"Via Serrano, 10141 Torino TO, Italy",Match,Google
+Demo_PSCL,"Via Serrano, 25, Torino",45.0662464,7.638342,"Via Serrano, 25, 10141 Torino TO, Italy",Match,Google
+Demo_PSCL,"via serrano, torino",45.0658382,7.6386486,"Via Serrano, 10141 Torino TO, Italy",Match,Google
+Demo_PSCL,"via sette comuni 43, torino via sette comuni 43",45.019598,7.654298,"Via Sette Comuni, 43/A, 10127 Torino TO, Italy",Match,Google
+Demo_PSCL,"via sondrio , Settimo torinese",45.1459801,7.7797269,"Via Sondrio, 10036 Settimo Torinese TO, Italy",Match,Google
+Demo_PSCL,"via stradella 238, torino",45.1044673,7.6653938,"Via Stradella 238, 10147 Torino TO, Italy",Match,Google
+Demo_PSCL,"via torino , chivasso",45.190238,7.888564,"Via Torino, 10034 Chivasso TO, Italy",Match,Google
+Demo_PSCL,"via tre po, cavagnolo",45.1636714,8.0413405,"Via Tre Po, 10020 Cavagnolo TO, Italy",Match,Google
+Demo_PSCL,"via tre po, cavagnolo",45.1636714,8.0413405,"Via Tre Po, 10020 Cavagnolo TO, Italy",Match,Google
+Demo_PSCL,"Via Tripoli, 15, Samone ",45.4492928,7.8412549,"Via Tripoli, 15, 10010 Samone TO, Italy",Match,Google
+Demo_PSCL,"via val della torre , torino",45.0964113,7.6503889,"Via Val della Torre, Torino TO, Italy",Match,Google
+Demo_PSCL,"via val dellatorre, torino",45.0964113,7.6503889,"Via Val della Torre, Torino TO, Italy",Match,Google
+Demo_PSCL,"VIA VALDIERI, 21 TORINO, TORINO",45.0700232,7.6520552,"Via Valdieri, 21, 10139 Torino TO, Italy",Match,Google
+Demo_PSCL,"VIA VALLO, RIVAROLO CANAVESE",45.3397165,7.7101314,"Via Umberto Vallo, 10086 Rivarolo Canavese TO, Italy",Match,Google
+Demo_PSCL,"VIA VALLO, RIVAROLO CANAVESE",45.3397165,7.7101314,"Via Umberto Vallo, 10086 Rivarolo Canavese TO, Italy",Match,Google
+Demo_PSCL,"Via Vobo, Torino",45.0950795,7.6764741,"Via Michele Antonio Vibò, 10147 Torino TO, Italy",Partial Match,Google
+Demo_PSCL,"viabongiovanni, torino",45.0996524,7.6831964,"Via Emilio Bongiovanni, 10147 Torino TO, Italy",Match,Google
+Demo_PSCL,"vialanzo, torino",45.1167757,7.6564854,"Via Lanzo, Torino TO, Italy",Match,Google
+Demo_PSCL,"viale europa 46, caluso",45.3043982,7.899417,"Viale Europa, 46, 10014 Caluso TO, Italy",Match,Google
+Demo_PSCL,"vicolo Moris 8, Orbassano",45.007877,7.538742,"Vicolo Moris, 8, 10043 Orbassano TO, Italy",Partial Match,Google
+Demo_PSCL,"Villanova d'Asti, Villanova d'Asti",44.9422651,7.9373876,"14019 Villanova d'Asti, Province of Asti, Italy",Match,Google
+Demo_PSCL,Volpiano,45.1937727,7.7880298,"10088 Volpiano, Metropolitan City of Turin, Italy",Match,Google
